@@ -24,7 +24,7 @@
 
 - **Environment:** Record during execution.
 - **Preconditions:** Registration form is available.
-- **Steps:** 1. Open the form. 2. Enter `chereth@`. 3. Complete other required fields with safe synthetic data. 4. Submit.
+- **Steps:** 1. Open the form. 2. Enter `email@`. 3. Complete other required fields with safe synthetic data. 4. Submit.
 - **Expected:** The form rejects malformed email and explains how to correct it.
 - **Actual:** Not yet executed — record the actual result.
 - **Severity/priority:** Assess after confirming behavior and impact.
