@@ -77,7 +77,7 @@ Jira (defect tracking), Postman (API testing), Chrome DevTools, BrowserStack or 
 
 ## 8. Sample Critical Test Cases
 
-A selection from the full set of 25 cases in [`Ecommerce_Sample_Test_Cases.xlsx`](Ecommerce_Sample_Test_Cases.xlsx).
+A selection from the full set of 25 cases in [`Ecommerce_Sample_Test_Cases.xlsx`](./ecommerce-testing/Ecommerce_Sample_Test_Cases.xlsx).
 
 | ID | Area | Test case | Expected result |
 |---|---|---|---|
