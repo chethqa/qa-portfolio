@@ -32,7 +32,7 @@ A practical portfolio demonstrating manual web testing, WordPress plugin QA, def
 
 ## Contact
 - Portfolio: https://chethqahub.site/
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional contact email
+- LinkedIn: www.linkedin.com/in/chereth-c-56810212b
+- Email: chereth@gmail.com
 
 This portfolio is for demonstration and learning. It does not claim that the examples have been executed against a production application.
